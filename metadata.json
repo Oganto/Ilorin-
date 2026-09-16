@@ -1,0 +1,6 @@
+{
+  "name": "Ilorin Living - Modern Housing & Property Finding",
+  "description": "Premium property-finding service in Ilorin, Kwara State. Discover quality homes, apartments, and duplexes in GRA, Tanke, Fate, and Adewole.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
